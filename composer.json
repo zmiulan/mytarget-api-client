@@ -1,5 +1,5 @@
 {
-    "name": "zmiulan/mytarget-api-client",
+    "name": "kradwhite/mytarget-api-client",
 	"version": "dev-1.1",
     "type": "library",
     "description": "MyTarget api client",
